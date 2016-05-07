@@ -10,19 +10,27 @@ The involved repos are:
 cloakroom-dietetics
 -------------------
 
+- DDD with Symfony/Application
 - Application project, made with symfony.
+- https://github.com/xmontero/cloakroom-dietetics
 
 predecessor-falsetto
 --------------------
 
+- DDD with Symfony/Making of
 - Architecture diagrams, etc.
+- https://github.com/xmontero/predecessor-falsetto
 
 driveway-overshoot
 ------------------
 
+- DDD with Symfony/Model
 - Model project, independent from symfony.
+- https://github.com/xmontero/driveway-overshoot
 
 profusion-pharmacist
 --------------------
 
+- DDD with Symfony/Persistence
 - Persistence, wich can be Symfony or not.
+- https://github.com/xmontero/profusion-pharmacist
